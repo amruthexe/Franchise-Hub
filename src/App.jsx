@@ -38,6 +38,7 @@ const App = () => {
         <ContactForm />
         <ConnectWithUs />
         <Footer />
+        <p> made with ❤️ amruthexe</p>
       </div>
     </>
   );
