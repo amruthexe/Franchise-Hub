@@ -38,7 +38,7 @@ const App = () => {
         <ContactForm />
         <ConnectWithUs />
         <Footer />
-        <p> made with ❤️ amruthexe</p>
+        <p className='text-center'> made with ❤️ amruthexe</p>
       </div>
     </>
   );
